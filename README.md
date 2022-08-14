@@ -1,10 +1,10 @@
 # Assignment
 ---------------------------------------------------------------------------
 
-KAVINDU SACHINTHA LIYANAGE
-Phone: 0710768126
-Email: kavindusachintha1625@gmail.com
-LinkedIn: https://www.linkedin.com/in/kavindu-sachintha-31474523a
+#KAVINDU SACHINTHA LIYANAGE
+#Phone: 0710768126
+#Email: kavindusachintha1625@gmail.com
+#LinkedIn: https://www.linkedin.com/in/kavindu-sachintha-31474523a
 
 ---------------------------How-to setup Project----------------------------
 
